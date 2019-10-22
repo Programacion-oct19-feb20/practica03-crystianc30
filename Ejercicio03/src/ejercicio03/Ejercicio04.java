@@ -9,7 +9,7 @@ package ejercicio03;
  *
  * @author Salas
  */
-public class Ejercicio03 {
+public class Ejercicio04 {
 
     /**
      * @param args the command line arguments
@@ -21,11 +21,9 @@ public class Ejercicio03 {
  
         nombre = "Crystian Carrión";
               universidad = "UTPL";
-                System.out.println("Mi nombre es "+ nombre);
-                System.out.println("Mi universidad es "+ universidad);
                         
-                        System.out.print("Mi nombre es "+ nombre + "\n");
-                        System.out.print("Mi universidad es "+ universidad);
+                        System.out.print("Mi nombre es " + "\n" + nombre + "\n");
+                        System.out.print("Mi universidad es " + "\n" + universidad);
                 
     }
     
